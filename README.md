@@ -1,2 +1,2 @@
 # simpPay
-Buy Now Pay Later
+Buy Now Pay Later - by krshna
