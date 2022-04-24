@@ -3,3 +3,13 @@
 
 # Introduction
 A web site which provides ---->> Buy Now Pay Later Service
+
+## Technology Stack:
+  1) Django
+  2) React.js
+
+Team Name: NP Devs
+
+* [Kaptan Singh](https://github.com/kaptan0428)
+* [Krishna Soni](https://github.com/Krishna1922)
+* [Kshitiz Kumar](https://github.com/KshiTiz59)
