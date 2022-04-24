@@ -1,0 +1,44 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.backimg{
+    width: 46%;
+    
+}
+.heading {
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+}
+.headingmid{
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+}
+.im{
+    width: 100%;
+}
+.c1{
+    /* width: 580px;
+    height: 10px;
+      margin-left: 100px;
+    margin-top: 200px; */
+   margin: auto;
+   height: 200px;
+    
+}
+@media screen and (max-width : 720px)
+{
+    .c1{
+        margin-top: 50px;
+    }
+  .flex{
+      display: flex;
+      flex-direction: column;
+  }
+  .backimg{
+      display: block;
+      margin: auto;
+      width: 100%;
+  }
+}
